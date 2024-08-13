@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm a SOC Analyst specializing in Incident Respons
 
 ## 🔗 Key Projects
 
-- 📜 **Incident Response Playbooks**: [Link to Repository]
+- 📜 **Incident Response Playbooks**: [https://github.com/CoderBlee/HealthCare-IR-Playbook]
 - 🛡️ **Threat Intelligence Feeds**: [Link to Repository]
 - 🤖 **Security Automation Scripts**: [Link to Repository]
 

@@ -66,9 +66,15 @@ Welcome to my GitHub profile! I'm a SOC Analyst specializing in Incident Respons
 - 📜 **Incident Response Playbooks**: [HealthCare-IR-Playbook](https://github.com/CoderBlee/HealthCare-IR-Playbook)
 - 🛡️ **Threat Intelligence Feeds**: [Link to Repository]
 - 🤖 **Security Automation Scripts**: [Link to Repository]
+## 💖 Sponsorship
+If you find my projects helpful, please consider supporting me on GitHub Sponsors! Your contributions help me dedicate more time to creating educational content and expanding the projects in this repository.  
+
+[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-me%20on%20GitHub-%23EA4AAA?logo=github)](https://github.com/sponsors/CoderBlee)(SPONSORSHIP.md).
+
+Thank You
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: 
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gamuchirai-blessing-muchafa/)
-- 🐦 Twitter: No twitter account
+- 🐦 Twitter: https://x.com/ChiRai_rai

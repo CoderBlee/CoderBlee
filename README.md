@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I'm a SOC Analyst specializing in Incident Respons
 ## 💖 Sponsorship
 If you find my projects helpful, please consider supporting me on GitHub Sponsors! Your contributions help me dedicate more time to creating educational content and expanding the projects in this repository.  
 
-[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-me%20on%20GitHub-%23EA4AAA?logo=github)](https://github.com/sponsors/CoderBlee)(SPONSORSHIP.md).
+[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-me%20on%20GitHub-%23EA4AAA?logo=github)](https://github.com/sponsors/CoderBlee)
 
 Thank You
 

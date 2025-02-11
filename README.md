@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Gamu 👋, 👩🏽‍💻👑 <a href="https://linkedin.com/in/gamuchirai-blessing-muchafa/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi there, I'm Gamu 👩🏽‍💻👑 <a href="https://linkedin.com/in/gamuchirai-blessing-muchafa/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
  I'm a SOC Analyst with expertise in Incident Response, Digital Forensics, Threat Intelligence, and Phishing Analysis, and I am a passionate Front-End Developer. My work revolves around cybersecurity and creating engaging content and user-friendly web experiences. Here you'll find information about my skills, contributions, and key projects. Feel free to explore and connect. I am eager to contribute to a team where I can make a tangible impact and continue to grow my skills.
 
@@ -17,24 +17,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderBlee&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
-
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/CoderBlee">
-    <img src="https://github-profile-trophy.vercel.app/?username=CoderBlee&theme=radical&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-## 🛠️ Skills
-| Skill                                         | Associated Project                                      |
-|-----------------------------------------------|-------------------------------------------------------|
-| Threat Intelligence and Analysis              | <a href="https://github.com/CoderBlee/Threat-Intel">Threat Intel Practitioner</a>|
-| Malware Analysis                              | <a href="https://github.com/CoderBlee/Malware-Analysis">Malware Analysis Portfolio</a>|
-| Windows Registry Forensics                   | <a href="https://github.com/CoderBlee/Windows-Registry">Windows Registry Project</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/CoderBlee/Network-Monitoring">Network Analysis Project</a>|
-
 
 ## 🛠️ Skills and Tools
 
@@ -86,15 +68,33 @@
 - 📜 **Incident Response Playbooks**: 
 - 🛡️ **Threat Intelligence Feeds**:
 - 🤖 **Security Automation Scripts**: 
+
+
+## 🛠️ Skills
+| Skill                                         | Associated Project                                      |
+|-----------------------------------------------|-------------------------------------------------------|
+| Threat Intelligence and Analysis              | <a href="https://github.com/CoderBlee/Threat-Intel">Threat Intel Practitioner</a>|
+| Malware Analysis                              | <a href="https://github.com/CoderBlee/Malware-Analysis">Malware Analysis Portfolio</a>|
+| Windows Registry Forensics                   | <a href="https://github.com/CoderBlee/Windows-Registry">Windows Registry Project</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/CoderBlee/Network-Monitoring">Network Analysis Project</a>|
+
+
 ## 💖 Sponsorship
 If you find my projects helpful, please consider supporting me on GitHub Sponsors! Your contributions help me dedicate more time to creating educational content and expanding the projects in this repository.  
-
 [![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-me%20on%20GitHub-%23EA4AAA?logo=github)](https://github.com/sponsors/CoderBlee)
-
 Thank You
+
 
 ## 📫 How to Reach Me
 
 - 📧 Email: 
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gamuchirai-blessing-muchafa/)
 - 🐦 Twitter: [X](https://x.com/ChiRai_rai)
+
+  ## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/CoderBlee">
+    <img src="https://github-profile-trophy.vercel.app/?username=CoderBlee&theme=radical&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
